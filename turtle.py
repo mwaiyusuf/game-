@@ -9,9 +9,9 @@ laura.color('red')
 laura.shape('turtle')
 
 # we will have methods..which are the ones that tells the object what to do  
-laura.penup()
-laura.goto(-160,100)
-laura.pendown()
+# laura.penup()
+# laura.goto(-160,100)
+# laura.pendown()
 
 rik = Turtle()
 lauren = Turtle()
